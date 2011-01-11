@@ -25,7 +25,7 @@
       <h2>Community Polls</h2>\
       <div id="create"><a href="/polls/new" class="btn" id="create-poll">Create a new Poll</a></div>\
       <div id="polls"></div>',
-      noPolls: '<div><strong>:/</strong> This community is doesn\'t have any polls just yet. Be the <strong>first</strong> to spark on.</div>',
+      noPolls: '<div><strong>:/</strong> This community is doesn\'t have any polls just yet. Be the <strong>first</strong> to spark one.</div>',
     pollForm: '<div><form id="new-poll" action="#" method="POST">\
       <h3>Get something out of your community</h3>\
       <input type="hidden" name="group-urlname" value="{{urlname}}">\
